@@ -1,0 +1,3 @@
+[submodule "solidity-osx"]
+	path = solidity-osx
+	url = https://github.com/sambacha/solidity-osx
